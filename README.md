@@ -220,7 +220,7 @@ Heuristic-based confidence calculation:
 
 ## License
 
-MIT License - Free to use for educational and commercial purposes.
+MIT License - Free to use for educational.
 
 ## Author
 
